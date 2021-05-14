@@ -1,7 +1,7 @@
 # mycroft_coffeetalk
 마이크로프트 커피토크 주제에 대한 repository
 
-## 2021-05-14 (1회차)
+### 2021-05-14 (1회차)
 
 - Main Topic `MSA History 등장배경`
 
